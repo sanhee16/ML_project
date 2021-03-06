@@ -22,7 +22,7 @@ machine learning / CNN / openCV
 - 이미지 선택 후 합성(다음 단계) : process_create.py
 
 2. process_create.py
-- 사용자 이미지에서 객체 추출하기(create object 버튼 클릭) : a.html
+- 사용자 이미지에서 객체 추출하기(create object 버튼 클릭)
 - 객체 추출한 것 화면에 띄우기 : makeobject.js -> show_ob.py
 - 객체 추출 안함 (건너뛰기) : enter_number2.py
 - 추출하고 싶은 객체 입력 : enter_number.py
@@ -36,9 +36,11 @@ machine learning / CNN / openCV
 3-2. enter_number2.py
 - 객체 선택없이 이미지와 명화 합성
 
+
 4. enter_number2.py / enter_number2.py 
 - 명도와 채도 변경 : ChromaBrightTest.py
 - 명도 채도 변경없이 건너뛰기 : ChromaBrightSkip.py
+
 
 5. ChromaBrightTest.py / ChromaBrightSkip.py
 - 명도 채도 작업 후 최종이미지, 저장
