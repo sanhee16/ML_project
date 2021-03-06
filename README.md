@@ -48,4 +48,9 @@ machine learning / CNN / openCV
 
 
 
+>###  참고
+separated_files와 image_edit 에 더 정확한 python코드가 있습니다.
+report directory의 (사용자 가이드 / 개발자 가이드)에 이미지와 설명이 나와 있습니다.
+
+
 
