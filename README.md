@@ -23,8 +23,12 @@ machine learning / CNN / openCV
 
 2. process_create.py
 - 사용자 이미지에서 객체 추출하기(create object 버튼 클릭) : a.html
+- 객체 추출한 것 화면에 띄우기 : makeobject.js -> show_ob.py
 - 객체 추출 안함 (건너뛰기) : enter_number2.py
 - 추출하고 싶은 객체 입력 : enter_number.py
+
+2-1. show_ob.py
+- 객체 추출, 추출한 객체마다 이미지를 다르게 하고 배경을 검은색으로 한 후 ret0 ~ ret(객체수-1) 의 이름으로 jpg생성
 
 3-1. enter_number.py
 - 선택된 객체를 제외한 이미지와 명화 합성
