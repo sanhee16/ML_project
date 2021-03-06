@@ -37,6 +37,7 @@ machine learning / CNN / openCV
 - 객체 선택없이 이미지와 명화 합성
 
 
+
 4. enter_number2.py / enter_number2.py 
 - 명도와 채도 변경 : ChromaBrightTest.py
 - 명도 채도 변경없이 건너뛰기 : ChromaBrightSkip.py
